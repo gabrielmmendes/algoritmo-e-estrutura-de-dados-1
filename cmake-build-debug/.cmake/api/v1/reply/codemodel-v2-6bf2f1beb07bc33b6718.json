@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AED1",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AED1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AED1-Debug-b3fd3c3a0bffb0e351ad.json",
+					"name" : "AED1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1-Debug-9791994a364b9dfcac66.json",
+					"name" : "P1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2-Debug-5462b2f90e03645a157b.json",
+					"name" : "P2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3-Debug-306744680450b7604d79.json",
+					"name" : "P3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "P4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P4-Debug-f096c546b1c30137caa8.json",
+					"name" : "P4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Gabriel Mendes/CLionProjects/AED1/cmake-build-debug",
+		"source" : "C:/Users/Gabriel Mendes/CLionProjects/AED1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
