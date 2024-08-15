@@ -82,11 +82,11 @@ build AED1.exe: C_EXECUTABLE_LINKER__AED1_Debug CMakeFiles/AED1.dir/main.c.obj
 
 build cmake_object_order_depends_target_P1: phony || CMakeFiles/P1.dir
 
-build CMakeFiles/P1.dir/livroAlgoritmoC/P1.c.obj: C_COMPILER__P1_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/P1.c || cmake_object_order_depends_target_P1
-  DEP_FILE = CMakeFiles\P1.dir\livroAlgoritmoC\P1.c.obj.d
+build CMakeFiles/P1.dir/livroAlgoritmoC/Capitulo_1/P1.c.obj: C_COMPILER__P1_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 1/P1.c || cmake_object_order_depends_target_P1
+  DEP_FILE = CMakeFiles\P1.dir\livroAlgoritmoC\Capitulo_1\P1.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\P1.dir
-  OBJECT_FILE_DIR = CMakeFiles\P1.dir\livroAlgoritmoC
+  OBJECT_FILE_DIR = CMakeFiles\P1.dir\livroAlgoritmoC\Capitulo_1
 
 
 # =============================================================================
@@ -96,7 +96,7 @@ build CMakeFiles/P1.dir/livroAlgoritmoC/P1.c.obj: C_COMPILER__P1_unscanned_Debug
 #############################################
 # Link the executable P1.exe
 
-build P1.exe: C_EXECUTABLE_LINKER__P1_Debug CMakeFiles/P1.dir/livroAlgoritmoC/P1.c.obj
+build P1.exe: C_EXECUTABLE_LINKER__P1_Debug CMakeFiles/P1.dir/livroAlgoritmoC/Capitulo_1/P1.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\P1.dir
@@ -115,11 +115,11 @@ build P1.exe: C_EXECUTABLE_LINKER__P1_Debug CMakeFiles/P1.dir/livroAlgoritmoC/P1
 
 build cmake_object_order_depends_target_P2: phony || CMakeFiles/P2.dir
 
-build CMakeFiles/P2.dir/livroAlgoritmoC/P2.c.obj: C_COMPILER__P2_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/P2.c || cmake_object_order_depends_target_P2
-  DEP_FILE = CMakeFiles\P2.dir\livroAlgoritmoC\P2.c.obj.d
+build CMakeFiles/P2.dir/livroAlgoritmoC/Capitulo_1/P2.c.obj: C_COMPILER__P2_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 1/P2.c || cmake_object_order_depends_target_P2
+  DEP_FILE = CMakeFiles\P2.dir\livroAlgoritmoC\Capitulo_1\P2.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\P2.dir
-  OBJECT_FILE_DIR = CMakeFiles\P2.dir\livroAlgoritmoC
+  OBJECT_FILE_DIR = CMakeFiles\P2.dir\livroAlgoritmoC\Capitulo_1
 
 
 # =============================================================================
@@ -129,7 +129,7 @@ build CMakeFiles/P2.dir/livroAlgoritmoC/P2.c.obj: C_COMPILER__P2_unscanned_Debug
 #############################################
 # Link the executable P2.exe
 
-build P2.exe: C_EXECUTABLE_LINKER__P2_Debug CMakeFiles/P2.dir/livroAlgoritmoC/P2.c.obj
+build P2.exe: C_EXECUTABLE_LINKER__P2_Debug CMakeFiles/P2.dir/livroAlgoritmoC/Capitulo_1/P2.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\P2.dir
@@ -148,11 +148,11 @@ build P2.exe: C_EXECUTABLE_LINKER__P2_Debug CMakeFiles/P2.dir/livroAlgoritmoC/P2
 
 build cmake_object_order_depends_target_P3: phony || CMakeFiles/P3.dir
 
-build CMakeFiles/P3.dir/livroAlgoritmoC/P3.c.obj: C_COMPILER__P3_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/P3.c || cmake_object_order_depends_target_P3
-  DEP_FILE = CMakeFiles\P3.dir\livroAlgoritmoC\P3.c.obj.d
+build CMakeFiles/P3.dir/livroAlgoritmoC/Capitulo_1/P3.c.obj: C_COMPILER__P3_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 1/P3.c || cmake_object_order_depends_target_P3
+  DEP_FILE = CMakeFiles\P3.dir\livroAlgoritmoC\Capitulo_1\P3.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\P3.dir
-  OBJECT_FILE_DIR = CMakeFiles\P3.dir\livroAlgoritmoC
+  OBJECT_FILE_DIR = CMakeFiles\P3.dir\livroAlgoritmoC\Capitulo_1
 
 
 # =============================================================================
@@ -162,7 +162,7 @@ build CMakeFiles/P3.dir/livroAlgoritmoC/P3.c.obj: C_COMPILER__P3_unscanned_Debug
 #############################################
 # Link the executable P3.exe
 
-build P3.exe: C_EXECUTABLE_LINKER__P3_Debug CMakeFiles/P3.dir/livroAlgoritmoC/P3.c.obj
+build P3.exe: C_EXECUTABLE_LINKER__P3_Debug CMakeFiles/P3.dir/livroAlgoritmoC/Capitulo_1/P3.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\P3.dir
@@ -181,11 +181,11 @@ build P3.exe: C_EXECUTABLE_LINKER__P3_Debug CMakeFiles/P3.dir/livroAlgoritmoC/P3
 
 build cmake_object_order_depends_target_P4: phony || CMakeFiles/P4.dir
 
-build CMakeFiles/P4.dir/livroAlgoritmoC/P4.c.obj: C_COMPILER__P4_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/P4.c || cmake_object_order_depends_target_P4
-  DEP_FILE = CMakeFiles\P4.dir\livroAlgoritmoC\P4.c.obj.d
+build CMakeFiles/P4.dir/livroAlgoritmoC/Capitulo_1/P4.c.obj: C_COMPILER__P4_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 1/P4.c || cmake_object_order_depends_target_P4
+  DEP_FILE = CMakeFiles\P4.dir\livroAlgoritmoC\Capitulo_1\P4.c.obj.d
   FLAGS = -g -std=gnu11 -fdiagnostics-color=always
   OBJECT_DIR = CMakeFiles\P4.dir
-  OBJECT_FILE_DIR = CMakeFiles\P4.dir\livroAlgoritmoC
+  OBJECT_FILE_DIR = CMakeFiles\P4.dir\livroAlgoritmoC\Capitulo_1
 
 
 # =============================================================================
@@ -195,7 +195,7 @@ build CMakeFiles/P4.dir/livroAlgoritmoC/P4.c.obj: C_COMPILER__P4_unscanned_Debug
 #############################################
 # Link the executable P4.exe
 
-build P4.exe: C_EXECUTABLE_LINKER__P4_Debug CMakeFiles/P4.dir/livroAlgoritmoC/P4.c.obj
+build P4.exe: C_EXECUTABLE_LINKER__P4_Debug CMakeFiles/P4.dir/livroAlgoritmoC/Capitulo_1/P4.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\P4.dir
@@ -204,6 +204,138 @@ build P4.exe: C_EXECUTABLE_LINKER__P4_Debug CMakeFiles/P4.dir/livroAlgoritmoC/P4
   TARGET_FILE = P4.exe
   TARGET_IMPLIB = libP4.dll.a
   TARGET_PDB = P4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2A
+
+
+#############################################
+# Order-only phony target for 2A
+
+build cmake_object_order_depends_target_2A: phony || CMakeFiles/2A.dir
+
+build CMakeFiles/2A.dir/livroAlgoritmoC/Capitulo_2/2A.c.obj: C_COMPILER__2A_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 2/2A.c || cmake_object_order_depends_target_2A
+  DEP_FILE = CMakeFiles\2A.dir\livroAlgoritmoC\Capitulo_2\2A.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2A.dir
+  OBJECT_FILE_DIR = CMakeFiles\2A.dir\livroAlgoritmoC\Capitulo_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2A
+
+
+#############################################
+# Link the executable 2A.exe
+
+build 2A.exe: C_EXECUTABLE_LINKER__2A_Debug CMakeFiles/2A.dir/livroAlgoritmoC/Capitulo_2/2A.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2A.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2A.exe
+  TARGET_IMPLIB = lib2A.dll.a
+  TARGET_PDB = 2A.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2B
+
+
+#############################################
+# Order-only phony target for 2B
+
+build cmake_object_order_depends_target_2B: phony || CMakeFiles/2B.dir
+
+build CMakeFiles/2B.dir/livroAlgoritmoC/Capitulo_2/2B.c.obj: C_COMPILER__2B_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 2/2B.c || cmake_object_order_depends_target_2B
+  DEP_FILE = CMakeFiles\2B.dir\livroAlgoritmoC\Capitulo_2\2B.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2B.dir
+  OBJECT_FILE_DIR = CMakeFiles\2B.dir\livroAlgoritmoC\Capitulo_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2B
+
+
+#############################################
+# Link the executable 2B.exe
+
+build 2B.exe: C_EXECUTABLE_LINKER__2B_Debug CMakeFiles/2B.dir/livroAlgoritmoC/Capitulo_2/2B.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2B.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2B.exe
+  TARGET_IMPLIB = lib2B.dll.a
+  TARGET_PDB = 2B.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2C
+
+
+#############################################
+# Order-only phony target for 2C
+
+build cmake_object_order_depends_target_2C: phony || CMakeFiles/2C.dir
+
+build CMakeFiles/2C.dir/livroAlgoritmoC/Capitulo_2/2C.c.obj: C_COMPILER__2C_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 2/2C.c || cmake_object_order_depends_target_2C
+  DEP_FILE = CMakeFiles\2C.dir\livroAlgoritmoC\Capitulo_2\2C.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2C.dir
+  OBJECT_FILE_DIR = CMakeFiles\2C.dir\livroAlgoritmoC\Capitulo_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2C
+
+
+#############################################
+# Link the executable 2C.exe
+
+build 2C.exe: C_EXECUTABLE_LINKER__2C_Debug CMakeFiles/2C.dir/livroAlgoritmoC/Capitulo_2/2C.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2C.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2C.exe
+  TARGET_IMPLIB = lib2C.dll.a
+  TARGET_PDB = 2C.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target 2D
+
+
+#############################################
+# Order-only phony target for 2D
+
+build cmake_object_order_depends_target_2D: phony || CMakeFiles/2D.dir
+
+build CMakeFiles/2D.dir/livroAlgoritmoC/Capitulo_2/2D.c.obj: C_COMPILER__2D_unscanned_Debug C$:/Users/Gabriel$ Mendes/CLionProjects/AED1/livroAlgoritmoC/Capitulo$ 2/2D.c || cmake_object_order_depends_target_2D
+  DEP_FILE = CMakeFiles\2D.dir\livroAlgoritmoC\Capitulo_2\2D.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\2D.dir
+  OBJECT_FILE_DIR = CMakeFiles\2D.dir\livroAlgoritmoC\Capitulo_2
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target 2D
+
+
+#############################################
+# Link the executable 2D.exe
+
+build 2D.exe: C_EXECUTABLE_LINKER__2D_Debug CMakeFiles/2D.dir/livroAlgoritmoC/Capitulo_2/2D.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\2D.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 2D.exe
+  TARGET_IMPLIB = lib2D.dll.a
+  TARGET_PDB = 2D.exe.dbg
 
 
 #############################################
@@ -231,6 +363,14 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build 2A: phony 2A.exe
+
+build 2B: phony 2B.exe
+
+build 2C: phony 2C.exe
+
+build 2D: phony 2D.exe
+
 build AED1: phony AED1.exe
 
 build P1: phony P1.exe
@@ -249,7 +389,7 @@ build P4: phony P4.exe
 #############################################
 # Folder: C:/Users/Gabriel Mendes/CLionProjects/AED1/cmake-build-debug
 
-build all: phony AED1.exe P1.exe P2.exe P3.exe P4.exe
+build all: phony AED1.exe P1.exe P2.exe P3.exe P4.exe 2A.exe 2B.exe 2C.exe 2D.exe
 
 # =============================================================================
 # Built-in targets

@@ -2,6 +2,12 @@
 // Created by Gabriel Mendes on 06/08/2024.
 //
 
+/*
+ * P2 - Custo da Lata de Cerveja (dificuldade 1)
+ * Um fabricante de latas deseja desenvolver um programa para calcular o custo de uma
+ * lata cilíndrica de alumínio, sabendo-se que o custo do alumínio por m 2 é R$ 100,00.
+ */
+
 #include <stdio.h>
 
 int main() {
